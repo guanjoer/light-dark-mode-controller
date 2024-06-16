@@ -1,2 +1,7 @@
-# Day-Night-Controller<br>
-Day-Night-Controller is a language written in JavaScript with the ability to change the background color of a web page and the color of text and links between dark and light modes.
+# Turn into Light or Dark Mode Controller
+
+> 아이콘으로 이루어진 버튼을 누르면 라이트 모드 혹은 다크 모드로 변합니다.
+
+- Google Fonts의 아이콘을 이용하여, 라이트 모드와 다크 모드의 아이콘이 토글 기능으로 바뀌도록 하였습니다.
+- 다크 모드 아이콘을 누르면 백그라운드의 색상과 폰트 색상 및 아이콘의 색상을 다크 모드에 맞게 변하도록 하였습니다.
+- 라이트 모드 아이콘을 누르면 상기한 색상들이 라이트 모드에 맞게 변하도록 하였습니다.
