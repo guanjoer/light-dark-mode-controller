@@ -1,7 +1,7 @@
 const handleIcon = document.querySelector('.light-dark-btn');
 const imageElement = document.querySelector('.light-dark-btn img');
-const lightImgPath = './light_mode_24dp_FILL0_wght400_GRAD0_opsz24.svg';
-const darkImgPath = './dark_mode_24dp_FILL0_wght400_GRAD0_opsz24.svg';
+const lightImgPath = '../images/light_mode_24dp_FILL0_wght400_GRAD0_opsz24.svg';
+const darkImgPath = '../images/dark_mode_24dp_FILL0_wght400_GRAD0_opsz24.svg';
 const bodyElement = document.querySelector('body');
 const htmlDocument = document.querySelector('html');
 
