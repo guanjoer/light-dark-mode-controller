@@ -1,0 +1,22 @@
+html {
+	color: rgb(32, 32, 32);
+}
+
+.light-dark-btn {
+	background: none;
+	border: none;
+	filter: invert(90%);
+	cursor: pointer;
+}
+
+/* .light-dark-btn.switch-dark {	
+	
+} */
+
+h1 {
+	color: inherit;
+}
+
+ul {
+	color: inherit;
+}
