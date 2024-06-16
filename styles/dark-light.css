@@ -1,5 +1,5 @@
 html {
-	color: rgb(32, 32, 32);
+	color: #202020;
 }
 
 .light-dark-btn {
@@ -9,9 +9,6 @@ html {
 	cursor: pointer;
 }
 
-/* .light-dark-btn.switch-dark {	
-	
-} */
 
 h1 {
 	color: inherit;
